@@ -8,14 +8,17 @@ I collect weather data of over 500 cities worldwide by using the OpenWeatherMap 
 # Plots Created
  - Latitude vs. Temperature
      - Generated scatter plots to showcase the relationship between latitude and temperature (both hemispheres).
-       ![image](https://github.com/user-attachments/assets/3e9dec9a-a298-45bd-8b30-c1fc025f3c13 width="400" height="300")
-
+       ![image](https://github.com/user-attachments/assets/3e9dec9a-a298-45bd-8b30-c1fc025f3c13)
  - Latitude vs. Humidity
   - Created scatter plots to display the relationship between latitude and humidity.
+    ![image](https://github.com/user-attachments/assets/6a0a6705-59f8-44f5-bdd3-4097338b546b)
  - Latitude vs. Cloudiness
    -  Scatter plots demonstrated the relationship between latitude and cloud cover.
+     ![image](https://github.com/user-attachments/assets/0f22cfea-8568-4d26-ae29-bdbf89a563dd)
 - Latitude vs. Wind Speed
   - Plotted the relationship between latitude and wind speed.
+    ![image](https://github.com/user-attachments/assets/8faef95b-fbc6-4913-b5a3-9fb8f790d91b)
+
 # Linear Regression
 I applied linear regression to each weather variable against latitude for northern and southern hemispheres:
 - Northern Hemisphere:
