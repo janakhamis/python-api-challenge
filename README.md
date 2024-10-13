@@ -8,7 +8,7 @@ I collect weather data of over 500 cities worldwide by using the OpenWeatherMap 
 # Plots Created
  - Latitude vs. Temperature
      - Generated scatter plots to showcase the relationship between latitude and temperature (both hemispheres).
-     - ![image](https://github.com/user-attachments/assets/3e9dec9a-a298-45bd-8b30-c1fc025f3c13)
+       ![image](https://github.com/user-attachments/assets/3e9dec9a-a298-45bd-8b30-c1fc025f3c13 width="400" height="300")
 
  - Latitude vs. Humidity
   - Created scatter plots to display the relationship between latitude and humidity.
